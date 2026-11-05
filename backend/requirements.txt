@@ -1,1 +1,2 @@
-# Add backend Python dependencies here.
+pydantic
+pytest
